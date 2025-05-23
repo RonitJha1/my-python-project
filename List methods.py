@@ -15,6 +15,3 @@
 # • count(): Returns the number of times a specified element appears in the list.
 # a=[1,2,3,4,4,5,6,7,8]
 # print(a.count(4))
-
-
-# LIST COMPREHENSIONS
